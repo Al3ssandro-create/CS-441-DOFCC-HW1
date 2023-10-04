@@ -1,0 +1,586 @@
+12:25:07.759 [main] INFO  - Loading the NetGraph from input/NetGameSimfileName.ngs
+12:25:08.792 [main] INFO  - Default output directory: C:\Users\aless\Desktop\Cloud1
+12:25:08.793 [main] ERROR - Output directory /Users/drmark/github/NetGameSim/outputs does not exist or is not a directory, using current directory instead: C:\Users\aless\Desktop\Cloud1
+12:25:08.921 [main] INFO  - Loading the NetGraph from input/NetGameSimfileName.ngs.perturbed
+12:25:09.567 [main] ERROR - Node 1 is not in the other graph
+12:25:09.576 [main] ERROR - Node 6 is not in the other graph
+12:25:09.591 [main] ERROR - Node 16 is not in the other graph
+12:25:09.607 [main] ERROR - Node 30 is not in the other graph
+12:25:09.611 [main] ERROR - Node 34 is not in the other graph
+12:25:09.618 [main] ERROR - Node 41 is not in the other graph
+12:25:09.632 [main] ERROR - Node 62 is not in the other graph
+12:25:09.635 [main] ERROR - Node 65 is not in the other graph
+12:25:09.644 [main] ERROR - Node 77 is not in the other graph
+12:25:09.646 [main] ERROR - Node 81 is not in the other graph
+12:25:09.649 [main] ERROR - Node 86 is not in the other graph
+12:25:09.653 [main] ERROR - Node 93 is not in the other graph
+12:25:09.654 [main] ERROR - Node 95 is not in the other graph
+12:25:09.667 [main] ERROR - Node 124 is not in the other graph
+12:25:09.681 [main] ERROR - Node 167 is not in the other graph
+12:25:09.688 [main] ERROR - Node 184 is not in the other graph
+12:25:09.690 [main] ERROR - Node 192 is not in the other graph
+12:25:09.693 [main] ERROR - Node 200 is not in the other graph
+12:25:09.695 [main] ERROR - Node 206 is not in the other graph
+12:25:09.700 [main] ERROR - Node 223 is not in the other graph
+12:25:09.701 [main] ERROR - Node 225 is not in the other graph
+12:25:09.702 [main] ERROR - Node 228 is not in the other graph
+12:25:09.702 [main] ERROR - Node 229 is not in the other graph
+12:25:09.704 [main] ERROR - Node 232 is not in the other graph
+12:25:09.704 [main] ERROR - Node 233 is not in the other graph
+12:25:09.707 [main] ERROR - Node 242 is not in the other graph
+12:25:09.710 [main] ERROR - Node 250 is not in the other graph
+12:25:09.713 [main] ERROR - Node 261 is not in the other graph
+12:25:09.719 [main] ERROR - Node 278 is not in the other graph
+12:25:09.721 [main] ERROR - Node 285 is not in the other graph
+12:25:09.725 [main] ERROR - Node 298 is not in the other graph
+12:25:09.786 [main] ERROR - Node 206 is not in the other graph
+12:25:09.786 [main] ERROR - Node 285 is not in the other graph
+12:25:09.786 [main] ERROR - Node 124 is not in the other graph
+12:25:09.787 [main] ERROR - Node 301 is not in the other graph
+12:25:09.787 [main] ERROR - Node 302 is not in the other graph
+12:25:09.787 [main] ERROR - Node 242 is not in the other graph
+12:25:09.788 [main] ERROR - Node 200 is not in the other graph
+12:25:09.788 [main] ERROR - Node 303 is not in the other graph
+12:25:09.788 [main] ERROR - Node 304 is not in the other graph
+12:25:09.789 [main] ERROR - Node 305 is not in the other graph
+12:25:09.789 [main] ERROR - Node 232 is not in the other graph
+12:25:09.789 [main] ERROR - Node 306 is not in the other graph
+12:25:09.790 [main] ERROR - Node 307 is not in the other graph
+12:25:09.790 [main] ERROR - Node 250 is not in the other graph
+12:25:09.790 [main] ERROR - Node 308 is not in the other graph
+12:25:09.791 [main] ERROR - Node 95 is not in the other graph
+12:25:09.791 [main] ERROR - Node 65 is not in the other graph
+12:25:09.792 [main] ERROR - Node 309 is not in the other graph
+12:25:09.792 [main] ERROR - Node 310 is not in the other graph
+12:25:09.792 [main] ERROR - Node 86 is not in the other graph
+12:25:09.793 [main] ERROR - Node 93 is not in the other graph
+12:25:09.794 [main] ERROR - Node 1 is not in the other graph
+12:25:09.794 [main] ERROR - Node 34 is not in the other graph
+12:25:09.795 [main] ERROR - Node 311 is not in the other graph
+12:25:09.795 [main] ERROR - Node 312 is not in the other graph
+12:25:09.796 [main] ERROR - Node 313 is not in the other graph
+12:25:09.796 [main] ERROR - Node 233 is not in the other graph
+12:25:09.797 [main] ERROR - Node 278 is not in the other graph
+12:25:09.797 [main] ERROR - Node 314 is not in the other graph
+12:25:09.797 [main] ERROR - Node 62 is not in the other graph
+12:25:09.799 [main] ERROR - Edge 1 -> 76 is not in the other graph
+12:25:09.800 [main] ERROR - Edge 1 -> 243 is not in the other graph
+12:25:09.800 [main] ERROR - Edge 1 -> 139 is not in the other graph
+12:25:09.802 [main] ERROR - Edge 6 -> 258 is not in the other graph
+12:25:09.802 [main] ERROR - Edge 9 -> 261 is not in the other graph
+12:25:09.802 [main] ERROR - Edge 16 -> 202 is not in the other graph
+12:25:09.802 [main] ERROR - Edge 25 -> 124 is not in the other graph
+12:25:09.803 [main] ERROR - Edge 30 -> 63 is not in the other graph
+12:25:09.803 [main] ERROR - Edge 30 -> 257 is not in the other graph
+12:25:09.803 [main] ERROR - Edge 30 -> 223 is not in the other graph
+12:25:09.803 [main] ERROR - Edge 34 -> 50 is not in the other graph
+12:25:09.803 [main] ERROR - Edge 38 -> 16 is not in the other graph
+12:25:09.804 [main] ERROR - Edge 40 -> 298 is not in the other graph
+12:25:09.804 [main] ERROR - Edge 41 -> 131 is not in the other graph
+12:25:09.804 [main] ERROR - Edge 41 -> 111 is not in the other graph
+12:25:09.804 [main] ERROR - Edge 41 -> 155 is not in the other graph
+12:25:09.804 [main] ERROR - Edge 42 -> 223 is not in the other graph
+12:25:09.804 [main] ERROR - Edge 48 -> 192 is not in the other graph
+12:25:09.804 [main] ERROR - Edge 49 -> 192 is not in the other graph
+12:25:09.804 [main] ERROR - Edge 51 -> 6 is not in the other graph
+12:25:09.805 [main] ERROR - Edge 54 -> 225 is not in the other graph
+12:25:09.805 [main] ERROR - Edge 56 -> 225 is not in the other graph
+12:25:09.805 [main] ERROR - Edge 62 -> 142 is not in the other graph
+12:25:09.805 [main] ERROR - Edge 62 -> 178 is not in the other graph
+12:25:09.805 [main] ERROR - Edge 62 -> 194 is not in the other graph
+12:25:09.806 [main] ERROR - Edge 62 -> 212 is not in the other graph
+12:25:09.806 [main] ERROR - Edge 65 -> 127 is not in the other graph
+12:25:09.806 [main] ERROR - Edge 70 -> 41 is not in the other graph
+12:25:09.806 [main] ERROR - Edge 71 -> 200 is not in the other graph
+12:25:09.806 [main] ERROR - Edge 77 -> 247 is not in the other graph
+12:25:09.806 [main] ERROR - Edge 80 -> 167 is not in the other graph
+12:25:09.806 [main] ERROR - Edge 81 -> 154 is not in the other graph
+12:25:09.806 [main] ERROR - Edge 83 -> 16 is not in the other graph
+12:25:09.807 [main] ERROR - Edge 86 -> 65 is not in the other graph
+12:25:09.807 [main] ERROR - Edge 86 -> 282 is not in the other graph
+12:25:09.807 [main] ERROR - Edge 86 -> 43 is not in the other graph
+12:25:09.807 [main] ERROR - Edge 92 -> 34 is not in the other graph
+12:25:09.808 [main] ERROR - Edge 93 -> 184 is not in the other graph
+12:25:09.808 [main] ERROR - Edge 93 -> 95 is not in the other graph
+12:25:09.808 [main] ERROR - Edge 93 -> 18 is not in the other graph
+12:25:09.808 [main] ERROR - Edge 95 -> 51 is not in the other graph
+12:25:09.808 [main] ERROR - Edge 95 -> 228 is not in the other graph
+12:25:09.808 [main] ERROR - Edge 95 -> 18 is not in the other graph
+12:25:09.809 [main] ERROR - Edge 110 -> 232 is not in the other graph
+12:25:09.810 [main] ERROR - Edge 118 -> 261 is not in the other graph
+12:25:09.810 [main] ERROR - Edge 119 -> 298 is not in the other graph
+12:25:09.810 [main] ERROR - Edge 121 -> 62 is not in the other graph
+12:25:09.811 [main] ERROR - Edge 124 -> 297 is not in the other graph
+12:25:09.812 [main] ERROR - Edge 131 -> 95 is not in the other graph
+12:25:09.812 [main] ERROR - Edge 132 -> 228 is not in the other graph
+12:25:09.813 [main] ERROR - Edge 133 -> 233 is not in the other graph
+12:25:09.813 [main] ERROR - Edge 133 -> 86 is not in the other graph
+12:25:09.813 [main] ERROR - Edge 136 -> 34 is not in the other graph
+12:25:09.813 [main] ERROR - Edge 137 -> 93 is not in the other graph
+12:25:09.814 [main] ERROR - Edge 142 -> 81 is not in the other graph
+12:25:09.816 [main] ERROR - Edge 153 -> 233 is not in the other graph
+12:25:09.817 [main] ERROR - Edge 162 -> 228 is not in the other graph
+12:25:09.818 [main] ERROR - Edge 167 -> 76 is not in the other graph
+12:25:09.819 [main] ERROR - Edge 167 -> 221 is not in the other graph
+12:25:09.819 [main] ERROR - Edge 167 -> 73 is not in the other graph
+12:25:09.819 [main] ERROR - Edge 171 -> 81 is not in the other graph
+12:25:09.819 [main] ERROR - Edge 172 -> 1 is not in the other graph
+12:25:09.820 [main] ERROR - Edge 184 -> 167 is not in the other graph
+12:25:09.820 [main] ERROR - Edge 184 -> 38 is not in the other graph
+12:25:09.821 [main] ERROR - Edge 184 -> 260 is not in the other graph
+12:25:09.821 [main] ERROR - Edge 184 -> 192 is not in the other graph
+12:25:09.821 [main] ERROR - Edge 190 -> 95 is not in the other graph
+12:25:09.821 [main] ERROR - Edge 192 -> 33 is not in the other graph
+12:25:09.822 [main] ERROR - Edge 192 -> 300 is not in the other graph
+12:25:09.822 [main] ERROR - Edge 196 -> 6 is not in the other graph
+12:25:09.823 [main] ERROR - Edge 199 -> 206 is not in the other graph
+12:25:09.823 [main] ERROR - Edge 200 -> 113 is not in the other graph
+12:25:09.823 [main] ERROR - Edge 200 -> 4 is not in the other graph
+12:25:09.824 [main] ERROR - Edge 203 -> 232 is not in the other graph
+12:25:09.824 [main] ERROR - Edge 203 -> 184 is not in the other graph
+12:25:09.824 [main] ERROR - Edge 204 -> 285 is not in the other graph
+12:25:09.825 [main] ERROR - Edge 206 -> 193 is not in the other graph
+12:25:09.825 [main] ERROR - Edge 207 -> 200 is not in the other graph
+12:25:09.825 [main] ERROR - Edge 209 -> 30 is not in the other graph
+12:25:09.826 [main] ERROR - Edge 211 -> 278 is not in the other graph
+12:25:09.827 [main] ERROR - Edge 214 -> 250 is not in the other graph
+12:25:09.828 [main] ERROR - Edge 216 -> 225 is not in the other graph
+12:25:09.829 [main] ERROR - Edge 216 -> 77 is not in the other graph
+12:25:09.830 [main] ERROR - Edge 223 -> 113 is not in the other graph
+12:25:09.830 [main] ERROR - Edge 223 -> 182 is not in the other graph
+12:25:09.830 [main] ERROR - Edge 225 -> 131 is not in the other graph
+12:25:09.830 [main] ERROR - Edge 225 -> 291 is not in the other graph
+12:25:09.830 [main] ERROR - Edge 227 -> 261 is not in the other graph
+12:25:09.830 [main] ERROR - Edge 228 -> 195 is not in the other graph
+12:25:09.830 [main] ERROR - Edge 229 -> 145 is not in the other graph
+12:25:09.831 [main] ERROR - Edge 229 -> 204 is not in the other graph
+12:25:09.831 [main] ERROR - Edge 229 -> 18 is not in the other graph
+12:25:09.831 [main] ERROR - Edge 229 -> 179 is not in the other graph
+12:25:09.831 [main] ERROR - Edge 232 -> 124 is not in the other graph
+12:25:09.831 [main] ERROR - Edge 232 -> 18 is not in the other graph
+12:25:09.831 [main] ERROR - Edge 233 -> 254 is not in the other graph
+12:25:09.831 [main] ERROR - Edge 233 -> 198 is not in the other graph
+12:25:09.832 [main] ERROR - Edge 237 -> 206 is not in the other graph
+12:25:09.832 [main] ERROR - Edge 237 -> 200 is not in the other graph
+12:25:09.832 [main] ERROR - Edge 237 -> 278 is not in the other graph
+12:25:09.833 [main] ERROR - Edge 242 -> 241 is not in the other graph
+12:25:09.833 [main] ERROR - Edge 242 -> 104 is not in the other graph
+12:25:09.833 [main] ERROR - Edge 242 -> 98 is not in the other graph
+12:25:09.834 [main] ERROR - Edge 246 -> 192 is not in the other graph
+12:25:09.834 [main] ERROR - Edge 250 -> 235 is not in the other graph
+12:25:09.835 [main] ERROR - Edge 253 -> 77 is not in the other graph
+12:25:09.835 [main] ERROR - Edge 257 -> 30 is not in the other graph
+12:25:09.835 [main] ERROR - Edge 261 -> 286 is not in the other graph
+12:25:09.836 [main] ERROR - Edge 262 -> 229 is not in the other graph
+12:25:09.836 [main] ERROR - Edge 263 -> 41 is not in the other graph
+12:25:09.836 [main] ERROR - Edge 265 -> 93 is not in the other graph
+12:25:09.836 [main] ERROR - Edge 266 -> 95 is not in the other graph
+12:25:09.838 [main] ERROR - Edge 275 -> 86 is not in the other graph
+12:25:09.838 [main] ERROR - Edge 276 -> 192 is not in the other graph
+12:25:09.838 [main] ERROR - Edge 277 -> 242 is not in the other graph
+12:25:09.838 [main] ERROR - Edge 278 -> 229 is not in the other graph
+12:25:09.838 [main] ERROR - Edge 278 -> 87 is not in the other graph
+12:25:09.839 [main] ERROR - Edge 283 -> 65 is not in the other graph
+12:25:09.839 [main] ERROR - Edge 283 -> 86 is not in the other graph
+12:25:09.839 [main] ERROR - Edge 285 -> 77 is not in the other graph
+12:25:09.841 [main] ERROR - Edge 298 -> 69 is not in the other graph
+12:25:09.842 [main] ERROR - Edge 298 -> 215 is not in the other graph
+12:25:09.842 [main] ERROR - Edge 298 -> 50 is not in the other graph
+12:25:09.842 [main] ERROR - Edge 298 -> 270 is not in the other graph
+12:25:09.842 [main] ERROR - Edge 298 -> 267 is not in the other graph
+12:25:09.842 [main] ERROR - Edge 298 -> 49 is not in the other graph
+12:25:09.847 [main] ERROR - Edge 19 -> 314 is not in the other graph
+12:25:09.848 [main] ERROR - Edge 25 -> 124 is not in the other graph
+12:25:09.849 [main] ERROR - Edge 42 -> 173 is not in the other graph
+12:25:09.850 [main] ERROR - Edge 45 -> 306 is not in the other graph
+12:25:09.850 [main] ERROR - Edge 57 -> 68 is not in the other graph
+12:25:09.850 [main] ERROR - Edge 61 -> 244 is not in the other graph
+12:25:09.850 [main] ERROR - Edge 71 -> 200 is not in the other graph
+12:25:09.851 [main] ERROR - Edge 82 -> 312 is not in the other graph
+12:25:09.851 [main] ERROR - Edge 84 -> 308 is not in the other graph
+12:25:09.851 [main] ERROR - Edge 89 -> 133 is not in the other graph
+12:25:09.851 [main] ERROR - Edge 91 -> 313 is not in the other graph
+12:25:09.851 [main] ERROR - Edge 92 -> 34 is not in the other graph
+12:25:09.852 [main] ERROR - Edge 104 -> 247 is not in the other graph
+12:25:09.852 [main] ERROR - Edge 110 -> 232 is not in the other graph
+12:25:09.853 [main] ERROR - Edge 121 -> 62 is not in the other graph
+12:25:09.853 [main] ERROR - Edge 131 -> 95 is not in the other graph
+12:25:09.854 [main] ERROR - Edge 133 -> 233 is not in the other graph
+12:25:09.854 [main] ERROR - Edge 133 -> 86 is not in the other graph
+12:25:09.854 [main] ERROR - Edge 136 -> 34 is not in the other graph
+12:25:09.854 [main] ERROR - Edge 137 -> 93 is not in the other graph
+12:25:09.854 [main] ERROR - Edge 138 -> 309 is not in the other graph
+12:25:09.855 [main] ERROR - Edge 143 -> 45 is not in the other graph
+12:25:09.857 [main] ERROR - Edge 153 -> 233 is not in the other graph
+12:25:09.859 [main] ERROR - Edge 172 -> 1 is not in the other graph
+12:25:09.859 [main] ERROR - Edge 172 -> 305 is not in the other graph
+12:25:09.861 [main] ERROR - Edge 186 -> 181 is not in the other graph
+12:25:09.862 [main] ERROR - Edge 190 -> 95 is not in the other graph
+12:25:09.863 [main] ERROR - Edge 199 -> 206 is not in the other graph
+12:25:09.863 [main] ERROR - Edge 203 -> 232 is not in the other graph
+12:25:09.864 [main] ERROR - Edge 204 -> 285 is not in the other graph
+12:25:09.864 [main] ERROR - Edge 207 -> 200 is not in the other graph
+12:25:09.865 [main] ERROR - Edge 211 -> 278 is not in the other graph
+12:25:09.865 [main] ERROR - Edge 214 -> 250 is not in the other graph
+12:25:09.865 [main] ERROR - Edge 215 -> 311 is not in the other graph
+12:25:09.868 [main] ERROR - Edge 227 -> 307 is not in the other graph
+12:25:09.869 [main] ERROR - Edge 237 -> 206 is not in the other graph
+12:25:09.869 [main] ERROR - Edge 237 -> 200 is not in the other graph
+12:25:09.869 [main] ERROR - Edge 237 -> 278 is not in the other graph
+12:25:09.869 [main] ERROR - Edge 240 -> 310 is not in the other graph
+12:25:09.870 [main] ERROR - Edge 241 -> 304 is not in the other graph
+12:25:09.870 [main] ERROR - Edge 243 -> 1 is not in the other graph
+12:25:09.870 [main] ERROR - Edge 245 -> 103 is not in the other graph
+12:25:09.870 [main] ERROR - Edge 248 -> 295 is not in the other graph
+12:25:09.871 [main] ERROR - Edge 256 -> 303 is not in the other graph
+12:25:09.873 [main] ERROR - Edge 265 -> 93 is not in the other graph
+12:25:09.873 [main] ERROR - Edge 266 -> 95 is not in the other graph
+12:25:09.874 [main] ERROR - Edge 275 -> 86 is not in the other graph
+12:25:09.875 [main] ERROR - Edge 277 -> 242 is not in the other graph
+12:25:09.876 [main] ERROR - Edge 283 -> 65 is not in the other graph
+12:25:09.876 [main] ERROR - Edge 283 -> 301 is not in the other graph
+12:25:09.876 [main] ERROR - Edge 283 -> 86 is not in the other graph
+12:25:09.876 [main] ERROR - Edge 286 -> 302 is not in the other graph
+12:25:09.878 [main] ERROR - Edge 293 -> 284 is not in the other graph
+12:25:09.879 [main] ERROR - Edge 206 -> 193 is not in the other graph
+12:25:09.879 [main] ERROR - Edge 124 -> 297 is not in the other graph
+12:25:09.879 [main] ERROR - Edge 242 -> 241 is not in the other graph
+12:25:09.880 [main] ERROR - Edge 242 -> 104 is not in the other graph
+12:25:09.880 [main] ERROR - Edge 242 -> 98 is not in the other graph
+12:25:09.880 [main] ERROR - Edge 200 -> 113 is not in the other graph
+12:25:09.880 [main] ERROR - Edge 200 -> 4 is not in the other graph
+12:25:09.880 [main] ERROR - Edge 232 -> 124 is not in the other graph
+12:25:09.880 [main] ERROR - Edge 232 -> 18 is not in the other graph
+12:25:09.880 [main] ERROR - Edge 250 -> 235 is not in the other graph
+12:25:09.880 [main] ERROR - Edge 95 -> 51 is not in the other graph
+12:25:09.880 [main] ERROR - Edge 95 -> 18 is not in the other graph
+12:25:09.880 [main] ERROR - Edge 65 -> 127 is not in the other graph
+12:25:09.880 [main] ERROR - Edge 86 -> 282 is not in the other graph
+12:25:09.880 [main] ERROR - Edge 86 -> 43 is not in the other graph
+12:25:09.880 [main] ERROR - Edge 86 -> 65 is not in the other graph
+12:25:09.881 [main] ERROR - Edge 93 -> 95 is not in the other graph
+12:25:09.881 [main] ERROR - Edge 93 -> 18 is not in the other graph
+12:25:09.881 [main] ERROR - Edge 1 -> 76 is not in the other graph
+12:25:09.881 [main] ERROR - Edge 1 -> 243 is not in the other graph
+12:25:09.881 [main] ERROR - Edge 1 -> 139 is not in the other graph
+12:25:09.881 [main] ERROR - Edge 34 -> 50 is not in the other graph
+12:25:09.881 [main] ERROR - Edge 233 -> 254 is not in the other graph
+12:25:09.881 [main] ERROR - Edge 233 -> 198 is not in the other graph
+12:25:09.881 [main] ERROR - Edge 278 -> 87 is not in the other graph
+12:25:09.881 [main] ERROR - Edge 62 -> 142 is not in the other graph
+12:25:09.882 [main] ERROR - Edge 62 -> 178 is not in the other graph
+12:25:09.882 [main] ERROR - Edge 62 -> 194 is not in the other graph
+12:25:09.882 [main] ERROR - Edge 62 -> 212 is not in the other graph
+12:32:27.386 [main] INFO  - Loading the NetGraph from input/NetGameSimfileName.ngs
+12:32:28.509 [main] INFO  - Default output directory: C:\Users\aless\Desktop\Cloud1
+12:32:28.509 [main] ERROR - Output directory /Users/drmark/github/NetGameSim/outputs does not exist or is not a directory, using current directory instead: C:\Users\aless\Desktop\Cloud1
+12:32:28.746 [main] INFO  - Loading the NetGraph from input/NetGameSimfileName.ngs.perturbed
+12:32:29.531 [main] ERROR - Node 1 is not in the other graph
+12:32:29.536 [main] ERROR - Node 6 is not in the other graph
+12:32:29.547 [main] ERROR - Node 16 is not in the other graph
+12:32:29.560 [main] ERROR - Node 30 is not in the other graph
+12:32:29.564 [main] ERROR - Node 34 is not in the other graph
+12:32:29.570 [main] ERROR - Node 41 is not in the other graph
+12:32:29.583 [main] ERROR - Node 62 is not in the other graph
+12:32:29.585 [main] ERROR - Node 65 is not in the other graph
+12:32:29.592 [main] ERROR - Node 77 is not in the other graph
+12:32:29.594 [main] ERROR - Node 81 is not in the other graph
+12:32:29.596 [main] ERROR - Node 86 is not in the other graph
+12:32:29.599 [main] ERROR - Node 93 is not in the other graph
+12:32:29.600 [main] ERROR - Node 95 is not in the other graph
+12:32:29.621 [main] ERROR - Node 124 is not in the other graph
+12:32:29.635 [main] ERROR - Node 167 is not in the other graph
+12:32:29.640 [main] ERROR - Node 184 is not in the other graph
+12:32:29.642 [main] ERROR - Node 192 is not in the other graph
+12:32:29.644 [main] ERROR - Node 200 is not in the other graph
+12:32:29.647 [main] ERROR - Node 206 is not in the other graph
+12:32:29.652 [main] ERROR - Node 223 is not in the other graph
+12:32:29.652 [main] ERROR - Node 225 is not in the other graph
+12:32:29.653 [main] ERROR - Node 228 is not in the other graph
+12:32:29.654 [main] ERROR - Node 229 is not in the other graph
+12:32:29.655 [main] ERROR - Node 232 is not in the other graph
+12:32:29.655 [main] ERROR - Node 233 is not in the other graph
+12:32:29.658 [main] ERROR - Node 242 is not in the other graph
+12:32:29.660 [main] ERROR - Node 250 is not in the other graph
+12:32:29.663 [main] ERROR - Node 261 is not in the other graph
+12:32:29.667 [main] ERROR - Node 278 is not in the other graph
+12:32:29.669 [main] ERROR - Node 285 is not in the other graph
+12:32:29.672 [main] ERROR - Node 298 is not in the other graph
+12:32:29.738 [main] ERROR - Node 206 is not in the other graph
+12:32:29.738 [main] ERROR - Node 285 is not in the other graph
+12:32:29.739 [main] ERROR - Node 124 is not in the other graph
+12:32:29.739 [main] ERROR - Node 301 is not in the other graph
+12:32:29.739 [main] ERROR - Node 302 is not in the other graph
+12:32:29.740 [main] ERROR - Node 242 is not in the other graph
+12:32:29.740 [main] ERROR - Node 200 is not in the other graph
+12:32:29.741 [main] ERROR - Node 303 is not in the other graph
+12:32:29.741 [main] ERROR - Node 304 is not in the other graph
+12:32:29.741 [main] ERROR - Node 305 is not in the other graph
+12:32:29.742 [main] ERROR - Node 232 is not in the other graph
+12:32:29.742 [main] ERROR - Node 306 is not in the other graph
+12:32:29.742 [main] ERROR - Node 307 is not in the other graph
+12:32:29.743 [main] ERROR - Node 250 is not in the other graph
+12:32:29.743 [main] ERROR - Node 308 is not in the other graph
+12:32:29.744 [main] ERROR - Node 95 is not in the other graph
+12:32:29.744 [main] ERROR - Node 65 is not in the other graph
+12:32:29.745 [main] ERROR - Node 309 is not in the other graph
+12:32:29.745 [main] ERROR - Node 310 is not in the other graph
+12:32:29.745 [main] ERROR - Node 86 is not in the other graph
+12:32:29.746 [main] ERROR - Node 93 is not in the other graph
+12:32:29.746 [main] ERROR - Node 1 is not in the other graph
+12:32:29.747 [main] ERROR - Node 34 is not in the other graph
+12:32:29.747 [main] ERROR - Node 311 is not in the other graph
+12:32:29.747 [main] ERROR - Node 312 is not in the other graph
+12:32:29.748 [main] ERROR - Node 313 is not in the other graph
+12:32:29.748 [main] ERROR - Node 233 is not in the other graph
+12:32:29.748 [main] ERROR - Node 278 is not in the other graph
+12:32:29.749 [main] ERROR - Node 314 is not in the other graph
+12:32:29.749 [main] ERROR - Node 62 is not in the other graph
+12:32:29.752 [main] ERROR - Edge 1 -> 76 is not in the other graph
+12:32:29.752 [main] ERROR - Edge 1 -> 243 is not in the other graph
+12:32:29.752 [main] ERROR - Edge 1 -> 139 is not in the other graph
+12:32:29.754 [main] ERROR - Edge 6 -> 258 is not in the other graph
+12:32:29.755 [main] ERROR - Edge 9 -> 261 is not in the other graph
+12:32:29.755 [main] ERROR - Edge 16 -> 202 is not in the other graph
+12:32:29.756 [main] ERROR - Edge 25 -> 124 is not in the other graph
+12:32:29.756 [main] ERROR - Edge 30 -> 63 is not in the other graph
+12:32:29.756 [main] ERROR - Edge 30 -> 257 is not in the other graph
+12:32:29.756 [main] ERROR - Edge 30 -> 223 is not in the other graph
+12:32:29.756 [main] ERROR - Edge 34 -> 50 is not in the other graph
+12:32:29.757 [main] ERROR - Edge 38 -> 16 is not in the other graph
+12:32:29.757 [main] ERROR - Edge 40 -> 298 is not in the other graph
+12:32:29.757 [main] ERROR - Edge 41 -> 131 is not in the other graph
+12:32:29.757 [main] ERROR - Edge 41 -> 111 is not in the other graph
+12:32:29.757 [main] ERROR - Edge 41 -> 155 is not in the other graph
+12:32:29.757 [main] ERROR - Edge 42 -> 223 is not in the other graph
+12:32:29.758 [main] ERROR - Edge 48 -> 192 is not in the other graph
+12:32:29.758 [main] ERROR - Edge 49 -> 192 is not in the other graph
+12:32:29.758 [main] ERROR - Edge 51 -> 6 is not in the other graph
+12:32:29.758 [main] ERROR - Edge 54 -> 225 is not in the other graph
+12:32:29.758 [main] ERROR - Edge 56 -> 225 is not in the other graph
+12:32:29.759 [main] ERROR - Edge 62 -> 142 is not in the other graph
+12:32:29.759 [main] ERROR - Edge 62 -> 178 is not in the other graph
+12:32:29.759 [main] ERROR - Edge 62 -> 194 is not in the other graph
+12:32:29.759 [main] ERROR - Edge 62 -> 212 is not in the other graph
+12:32:29.759 [main] ERROR - Edge 65 -> 127 is not in the other graph
+12:32:29.759 [main] ERROR - Edge 70 -> 41 is not in the other graph
+12:32:29.759 [main] ERROR - Edge 71 -> 200 is not in the other graph
+12:32:29.760 [main] ERROR - Edge 77 -> 247 is not in the other graph
+12:32:29.760 [main] ERROR - Edge 80 -> 167 is not in the other graph
+12:32:29.760 [main] ERROR - Edge 81 -> 154 is not in the other graph
+12:32:29.760 [main] ERROR - Edge 83 -> 16 is not in the other graph
+12:32:29.761 [main] ERROR - Edge 86 -> 65 is not in the other graph
+12:32:29.761 [main] ERROR - Edge 86 -> 282 is not in the other graph
+12:32:29.761 [main] ERROR - Edge 86 -> 43 is not in the other graph
+12:32:29.761 [main] ERROR - Edge 92 -> 34 is not in the other graph
+12:32:29.762 [main] ERROR - Edge 93 -> 184 is not in the other graph
+12:32:29.762 [main] ERROR - Edge 93 -> 95 is not in the other graph
+12:32:29.762 [main] ERROR - Edge 93 -> 18 is not in the other graph
+12:32:29.762 [main] ERROR - Edge 95 -> 51 is not in the other graph
+12:32:29.762 [main] ERROR - Edge 95 -> 228 is not in the other graph
+12:32:29.762 [main] ERROR - Edge 95 -> 18 is not in the other graph
+12:32:29.764 [main] ERROR - Edge 110 -> 232 is not in the other graph
+12:32:29.764 [main] ERROR - Edge 118 -> 261 is not in the other graph
+12:32:29.765 [main] ERROR - Edge 119 -> 298 is not in the other graph
+12:32:29.765 [main] ERROR - Edge 121 -> 62 is not in the other graph
+12:32:29.766 [main] ERROR - Edge 124 -> 297 is not in the other graph
+12:32:29.766 [main] ERROR - Edge 131 -> 95 is not in the other graph
+12:32:29.767 [main] ERROR - Edge 132 -> 228 is not in the other graph
+12:32:29.767 [main] ERROR - Edge 133 -> 233 is not in the other graph
+12:32:29.767 [main] ERROR - Edge 133 -> 86 is not in the other graph
+12:32:29.768 [main] ERROR - Edge 136 -> 34 is not in the other graph
+12:32:29.768 [main] ERROR - Edge 137 -> 93 is not in the other graph
+12:32:29.769 [main] ERROR - Edge 142 -> 81 is not in the other graph
+12:32:29.770 [main] ERROR - Edge 153 -> 233 is not in the other graph
+12:32:29.771 [main] ERROR - Edge 162 -> 228 is not in the other graph
+12:32:29.772 [main] ERROR - Edge 167 -> 76 is not in the other graph
+12:32:29.772 [main] ERROR - Edge 167 -> 221 is not in the other graph
+12:32:29.772 [main] ERROR - Edge 167 -> 73 is not in the other graph
+12:32:29.772 [main] ERROR - Edge 171 -> 81 is not in the other graph
+12:32:29.772 [main] ERROR - Edge 172 -> 1 is not in the other graph
+12:32:29.773 [main] ERROR - Edge 184 -> 167 is not in the other graph
+12:32:29.774 [main] ERROR - Edge 184 -> 38 is not in the other graph
+12:32:29.774 [main] ERROR - Edge 184 -> 260 is not in the other graph
+12:32:29.774 [main] ERROR - Edge 184 -> 192 is not in the other graph
+12:32:29.774 [main] ERROR - Edge 190 -> 95 is not in the other graph
+12:32:29.775 [main] ERROR - Edge 192 -> 33 is not in the other graph
+12:32:29.775 [main] ERROR - Edge 192 -> 300 is not in the other graph
+12:32:29.775 [main] ERROR - Edge 196 -> 6 is not in the other graph
+12:32:29.775 [main] ERROR - Edge 199 -> 206 is not in the other graph
+12:32:29.775 [main] ERROR - Edge 200 -> 113 is not in the other graph
+12:32:29.775 [main] ERROR - Edge 200 -> 4 is not in the other graph
+12:32:29.776 [main] ERROR - Edge 203 -> 232 is not in the other graph
+12:32:29.776 [main] ERROR - Edge 203 -> 184 is not in the other graph
+12:32:29.776 [main] ERROR - Edge 204 -> 285 is not in the other graph
+12:32:29.776 [main] ERROR - Edge 206 -> 193 is not in the other graph
+12:32:29.777 [main] ERROR - Edge 207 -> 200 is not in the other graph
+12:32:29.777 [main] ERROR - Edge 209 -> 30 is not in the other graph
+12:32:29.777 [main] ERROR - Edge 211 -> 278 is not in the other graph
+12:32:29.778 [main] ERROR - Edge 214 -> 250 is not in the other graph
+12:32:29.778 [main] ERROR - Edge 216 -> 225 is not in the other graph
+12:32:29.778 [main] ERROR - Edge 216 -> 77 is not in the other graph
+12:32:29.779 [main] ERROR - Edge 223 -> 113 is not in the other graph
+12:32:29.779 [main] ERROR - Edge 223 -> 182 is not in the other graph
+12:32:29.779 [main] ERROR - Edge 225 -> 131 is not in the other graph
+12:32:29.779 [main] ERROR - Edge 225 -> 291 is not in the other graph
+12:32:29.779 [main] ERROR - Edge 227 -> 261 is not in the other graph
+12:32:29.779 [main] ERROR - Edge 228 -> 195 is not in the other graph
+12:32:29.780 [main] ERROR - Edge 229 -> 145 is not in the other graph
+12:32:29.780 [main] ERROR - Edge 229 -> 204 is not in the other graph
+12:32:29.780 [main] ERROR - Edge 229 -> 18 is not in the other graph
+12:32:29.780 [main] ERROR - Edge 229 -> 179 is not in the other graph
+12:32:29.780 [main] ERROR - Edge 232 -> 124 is not in the other graph
+12:32:29.780 [main] ERROR - Edge 232 -> 18 is not in the other graph
+12:32:29.780 [main] ERROR - Edge 233 -> 254 is not in the other graph
+12:32:29.780 [main] ERROR - Edge 233 -> 198 is not in the other graph
+12:32:29.781 [main] ERROR - Edge 237 -> 206 is not in the other graph
+12:32:29.781 [main] ERROR - Edge 237 -> 200 is not in the other graph
+12:32:29.782 [main] ERROR - Edge 237 -> 278 is not in the other graph
+12:32:29.782 [main] ERROR - Edge 242 -> 241 is not in the other graph
+12:32:29.783 [main] ERROR - Edge 242 -> 104 is not in the other graph
+12:32:29.783 [main] ERROR - Edge 242 -> 98 is not in the other graph
+12:32:29.783 [main] ERROR - Edge 246 -> 192 is not in the other graph
+12:32:29.783 [main] ERROR - Edge 250 -> 235 is not in the other graph
+12:32:29.783 [main] ERROR - Edge 253 -> 77 is not in the other graph
+12:32:29.784 [main] ERROR - Edge 257 -> 30 is not in the other graph
+12:32:29.784 [main] ERROR - Edge 261 -> 286 is not in the other graph
+12:32:29.784 [main] ERROR - Edge 262 -> 229 is not in the other graph
+12:32:29.784 [main] ERROR - Edge 263 -> 41 is not in the other graph
+12:32:29.785 [main] ERROR - Edge 265 -> 93 is not in the other graph
+12:32:29.785 [main] ERROR - Edge 266 -> 95 is not in the other graph
+12:32:29.785 [main] ERROR - Edge 275 -> 86 is not in the other graph
+12:32:29.785 [main] ERROR - Edge 276 -> 192 is not in the other graph
+12:32:29.785 [main] ERROR - Edge 277 -> 242 is not in the other graph
+12:32:29.785 [main] ERROR - Edge 278 -> 229 is not in the other graph
+12:32:29.785 [main] ERROR - Edge 278 -> 87 is not in the other graph
+12:32:29.786 [main] ERROR - Edge 283 -> 65 is not in the other graph
+12:32:29.786 [main] ERROR - Edge 283 -> 86 is not in the other graph
+12:32:29.786 [main] ERROR - Edge 285 -> 77 is not in the other graph
+12:32:29.787 [main] ERROR - Edge 298 -> 69 is not in the other graph
+12:32:29.787 [main] ERROR - Edge 298 -> 215 is not in the other graph
+12:32:29.787 [main] ERROR - Edge 298 -> 50 is not in the other graph
+12:32:29.787 [main] ERROR - Edge 298 -> 270 is not in the other graph
+12:32:29.787 [main] ERROR - Edge 298 -> 267 is not in the other graph
+12:32:29.787 [main] ERROR - Edge 298 -> 49 is not in the other graph
+12:32:29.790 [main] ERROR - Edge 19 -> 314 is not in the other graph
+12:32:29.791 [main] ERROR - Edge 25 -> 124 is not in the other graph
+12:32:29.791 [main] ERROR - Edge 42 -> 173 is not in the other graph
+12:32:29.791 [main] ERROR - Edge 45 -> 306 is not in the other graph
+12:32:29.791 [main] ERROR - Edge 57 -> 68 is not in the other graph
+12:32:29.792 [main] ERROR - Edge 61 -> 244 is not in the other graph
+12:32:29.792 [main] ERROR - Edge 71 -> 200 is not in the other graph
+12:32:29.792 [main] ERROR - Edge 82 -> 312 is not in the other graph
+12:32:29.793 [main] ERROR - Edge 84 -> 308 is not in the other graph
+12:32:29.793 [main] ERROR - Edge 89 -> 133 is not in the other graph
+12:32:29.793 [main] ERROR - Edge 91 -> 313 is not in the other graph
+12:32:29.793 [main] ERROR - Edge 92 -> 34 is not in the other graph
+12:32:29.794 [main] ERROR - Edge 104 -> 247 is not in the other graph
+12:32:29.794 [main] ERROR - Edge 110 -> 232 is not in the other graph
+12:32:29.794 [main] ERROR - Edge 121 -> 62 is not in the other graph
+12:32:29.794 [main] ERROR - Edge 131 -> 95 is not in the other graph
+12:32:29.794 [main] ERROR - Edge 133 -> 233 is not in the other graph
+12:32:29.794 [main] ERROR - Edge 133 -> 86 is not in the other graph
+12:32:29.795 [main] ERROR - Edge 136 -> 34 is not in the other graph
+12:32:29.795 [main] ERROR - Edge 137 -> 93 is not in the other graph
+12:32:29.795 [main] ERROR - Edge 138 -> 309 is not in the other graph
+12:32:29.795 [main] ERROR - Edge 143 -> 45 is not in the other graph
+12:32:29.796 [main] ERROR - Edge 153 -> 233 is not in the other graph
+12:32:29.797 [main] ERROR - Edge 172 -> 1 is not in the other graph
+12:32:29.797 [main] ERROR - Edge 172 -> 305 is not in the other graph
+12:32:29.797 [main] ERROR - Edge 186 -> 181 is not in the other graph
+12:32:29.798 [main] ERROR - Edge 190 -> 95 is not in the other graph
+12:32:29.798 [main] ERROR - Edge 199 -> 206 is not in the other graph
+12:32:29.798 [main] ERROR - Edge 203 -> 232 is not in the other graph
+12:32:29.798 [main] ERROR - Edge 204 -> 285 is not in the other graph
+12:32:29.798 [main] ERROR - Edge 207 -> 200 is not in the other graph
+12:32:29.799 [main] ERROR - Edge 211 -> 278 is not in the other graph
+12:32:29.799 [main] ERROR - Edge 214 -> 250 is not in the other graph
+12:32:29.799 [main] ERROR - Edge 215 -> 311 is not in the other graph
+12:32:29.800 [main] ERROR - Edge 227 -> 307 is not in the other graph
+12:32:29.801 [main] ERROR - Edge 237 -> 206 is not in the other graph
+12:32:29.801 [main] ERROR - Edge 237 -> 200 is not in the other graph
+12:32:29.801 [main] ERROR - Edge 237 -> 278 is not in the other graph
+12:32:29.801 [main] ERROR - Edge 240 -> 310 is not in the other graph
+12:32:29.801 [main] ERROR - Edge 241 -> 304 is not in the other graph
+12:32:29.801 [main] ERROR - Edge 243 -> 1 is not in the other graph
+12:32:29.801 [main] ERROR - Edge 245 -> 103 is not in the other graph
+12:32:29.801 [main] ERROR - Edge 248 -> 295 is not in the other graph
+12:32:29.802 [main] ERROR - Edge 256 -> 303 is not in the other graph
+12:32:29.803 [main] ERROR - Edge 265 -> 93 is not in the other graph
+12:32:29.803 [main] ERROR - Edge 266 -> 95 is not in the other graph
+12:32:29.804 [main] ERROR - Edge 275 -> 86 is not in the other graph
+12:32:29.804 [main] ERROR - Edge 277 -> 242 is not in the other graph
+12:32:29.805 [main] ERROR - Edge 283 -> 65 is not in the other graph
+12:32:29.805 [main] ERROR - Edge 283 -> 301 is not in the other graph
+12:32:29.805 [main] ERROR - Edge 283 -> 86 is not in the other graph
+12:32:29.805 [main] ERROR - Edge 286 -> 302 is not in the other graph
+12:32:29.805 [main] ERROR - Edge 293 -> 284 is not in the other graph
+12:32:29.806 [main] ERROR - Edge 206 -> 193 is not in the other graph
+12:32:29.806 [main] ERROR - Edge 124 -> 297 is not in the other graph
+12:32:29.806 [main] ERROR - Edge 242 -> 241 is not in the other graph
+12:32:29.806 [main] ERROR - Edge 242 -> 104 is not in the other graph
+12:32:29.806 [main] ERROR - Edge 242 -> 98 is not in the other graph
+12:32:29.806 [main] ERROR - Edge 200 -> 113 is not in the other graph
+12:32:29.806 [main] ERROR - Edge 200 -> 4 is not in the other graph
+12:32:29.806 [main] ERROR - Edge 232 -> 124 is not in the other graph
+12:32:29.806 [main] ERROR - Edge 232 -> 18 is not in the other graph
+12:32:29.806 [main] ERROR - Edge 250 -> 235 is not in the other graph
+12:32:29.806 [main] ERROR - Edge 95 -> 51 is not in the other graph
+12:32:29.806 [main] ERROR - Edge 95 -> 18 is not in the other graph
+12:32:29.806 [main] ERROR - Edge 65 -> 127 is not in the other graph
+12:32:29.806 [main] ERROR - Edge 86 -> 282 is not in the other graph
+12:32:29.806 [main] ERROR - Edge 86 -> 43 is not in the other graph
+12:32:29.806 [main] ERROR - Edge 86 -> 65 is not in the other graph
+12:32:29.806 [main] ERROR - Edge 93 -> 95 is not in the other graph
+12:32:29.806 [main] ERROR - Edge 93 -> 18 is not in the other graph
+12:32:29.806 [main] ERROR - Edge 1 -> 76 is not in the other graph
+12:32:29.807 [main] ERROR - Edge 1 -> 243 is not in the other graph
+12:32:29.807 [main] ERROR - Edge 1 -> 139 is not in the other graph
+12:32:29.807 [main] ERROR - Edge 34 -> 50 is not in the other graph
+12:32:29.807 [main] ERROR - Edge 233 -> 254 is not in the other graph
+12:32:29.807 [main] ERROR - Edge 233 -> 198 is not in the other graph
+12:32:29.807 [main] ERROR - Edge 278 -> 87 is not in the other graph
+12:32:29.807 [main] ERROR - Edge 62 -> 142 is not in the other graph
+12:32:29.807 [main] ERROR - Edge 62 -> 178 is not in the other graph
+12:32:29.807 [main] ERROR - Edge 62 -> 194 is not in the other graph
+12:32:29.807 [main] ERROR - Edge 62 -> 212 is not in the other graph
+17:49:45.663 [main] INFO  - Loading the NetGraph from input/NetGameSimfileName.ngs
+17:49:46.724 [main] INFO  - Default output directory: C:\Users\aless\Desktop\Cloud1
+17:49:46.725 [main] ERROR - Output directory /Users/drmark/github/NetGameSim/outputs does not exist or is not a directory, using current directory instead: C:\Users\aless\Desktop\Cloud1
+17:49:46.884 [main] INFO  - Loading the NetGraph from input/NetGameSimfileName.ngs.perturbed
+17:59:46.035 [main] INFO  - Loading the NetGraph from input/NetGameSimfileName.ngs
+17:59:47.019 [main] INFO  - Default output directory: C:\Users\aless\Desktop\Cloud1
+17:59:47.019 [main] ERROR - Output directory /Users/drmark/github/NetGameSim/outputs does not exist or is not a directory, using current directory instead: C:\Users\aless\Desktop\Cloud1
+17:59:47.191 [main] INFO  - Loading the NetGraph from input/NetGameSimfileName.ngs.perturbed
+18:00:05.907 [main] INFO  - Loading the NetGraph from input/NetGameSimfileName.ngs
+18:00:06.871 [main] INFO  - Default output directory: C:\Users\aless\Desktop\Cloud1
+18:00:06.871 [main] ERROR - Output directory /Users/drmark/github/NetGameSim/outputs does not exist or is not a directory, using current directory instead: C:\Users\aless\Desktop\Cloud1
+18:00:07.040 [main] INFO  - Loading the NetGraph from input/NetGameSimfileName.ngs.perturbed
+18:01:01.796 [main] INFO  - Loading the NetGraph from input/NetGameSimfileName.ngs
+18:01:02.790 [main] INFO  - Default output directory: C:\Users\aless\Desktop\Cloud1
+18:01:02.790 [main] ERROR - Output directory /Users/drmark/github/NetGameSim/outputs does not exist or is not a directory, using current directory instead: C:\Users\aless\Desktop\Cloud1
+18:01:02.954 [main] INFO  - Loading the NetGraph from input/NetGameSimfileName.ngs.perturbed
+18:19:03.994 [main] INFO  - Loading the NetGraph from input/NetGameSimfileName.ngs
+18:19:04.989 [main] INFO  - Default output directory: C:\Users\aless\Desktop\Cloud1
+18:19:04.989 [main] ERROR - Output directory /Users/drmark/github/NetGameSim/outputs does not exist or is not a directory, using current directory instead: C:\Users\aless\Desktop\Cloud1
+18:19:05.149 [main] INFO  - Loading the NetGraph from input/NetGameSimfileName.ngs.perturbed
+18:43:10.613 [main] INFO  - Loading the NetGraph from input/NetGameSimfileName.ngs
+18:43:11.621 [main] INFO  - Default output directory: C:\Users\aless\Desktop\Cloud1
+18:43:11.621 [main] ERROR - Output directory /Users/drmark/github/NetGameSim/outputs does not exist or is not a directory, using current directory instead: C:\Users\aless\Desktop\Cloud1
+18:43:11.765 [main] INFO  - Loading the NetGraph from input/NetGameSimfileName.ngs.perturbed
+18:45:00.286 [main] INFO  - Loading the NetGraph from input/NetGameSimfileName.ngs
+18:45:01.230 [main] INFO  - Default output directory: C:\Users\aless\Desktop\Cloud1
+18:45:01.231 [main] ERROR - Output directory /Users/drmark/github/NetGameSim/outputs does not exist or is not a directory, using current directory instead: C:\Users\aless\Desktop\Cloud1
+18:45:01.385 [main] INFO  - Loading the NetGraph from input/NetGameSimfileName.ngs.perturbed
+18:55:10.366 [main] INFO  - Loading the NetGraph from input/NetGameSimfileName.ngs
+18:55:11.436 [main] INFO  - Default output directory: C:\Users\aless\Desktop\Cloud1
+18:55:11.436 [main] ERROR - Output directory /Users/drmark/github/NetGameSim/outputs does not exist or is not a directory, using current directory instead: C:\Users\aless\Desktop\Cloud1
+18:55:11.657 [main] INFO  - Loading the NetGraph from input/NetGameSimfileName.ngs.perturbed
+18:55:38.281 [main] INFO  - Loading the NetGraph from input/NetGameSimfileName.ngs
+18:55:39.341 [main] INFO  - Default output directory: C:\Users\aless\Desktop\Cloud1
+18:55:39.342 [main] ERROR - Output directory /Users/drmark/github/NetGameSim/outputs does not exist or is not a directory, using current directory instead: C:\Users\aless\Desktop\Cloud1
+18:55:39.511 [main] INFO  - Loading the NetGraph from input/NetGameSimfileName.ngs.perturbed
+18:59:00.585 [main] INFO  - Loading the NetGraph from input/NetGameSimfileName.ngs
+18:59:01.693 [main] INFO  - Default output directory: C:\Users\aless\Desktop\Cloud1
+18:59:01.693 [main] ERROR - Output directory /Users/drmark/github/NetGameSim/outputs does not exist or is not a directory, using current directory instead: C:\Users\aless\Desktop\Cloud1
+18:59:01.880 [main] INFO  - Loading the NetGraph from input/NetGameSimfileName.ngs.perturbed

@@ -1,0 +1,26 @@
+18:25:31.690 [main] INFO  - Loading the NetGraph from NetGameSimfileName
+18:34:51.076 [main] INFO  - Loading the NetGraph from NetGameSimfileName
+18:35:21.207 [main] INFO  - Loading the NetGraph from NetGameSimfileName.ngs
+18:36:45.970 [main] INFO  - Loading the NetGraph from NetGameSimfileName.ngs
+18:37:01.530 [main] INFO  - Loading the NetGraph from NetGameSimfileName.ser
+20:46:24.223 [main] INFO  - Loading the NetGraph from /input/input/NetGameSimfileName.ngs
+20:46:54.985 [main] INFO  - Loading the NetGraph from /input/NetGameSimfileName.ngs
+20:47:03.719 [main] INFO  - Loading the NetGraph from /input/NetGameSimfileName.ngs
+20:47:26.003 [main] INFO  - Loading the NetGraph from input/NetGameSimfileName.ngs
+20:47:27.130 [main] INFO  - Default output directory: C:\Users\aless\Desktop\Cloud1
+20:47:27.130 [main] ERROR - Output directory /Users/drmark/github/NetGameSim/outputs does not exist or is not a directory, using current directory instead: C:\Users\aless\Desktop\Cloud1
+20:48:03.990 [main] INFO  - Loading the NetGraph from C:\Users\aless\Desktop\Cloud1input/NetGameSimfileName.ngs
+20:48:30.722 [main] INFO  - Loading the NetGraph from C:/Users/aless/Desktop/Cloud1input/NetGameSimfileName.ngs
+20:48:41.029 [main] INFO  - Loading the NetGraph from input/NetGameSimfileName.ngs
+20:48:42.070 [main] INFO  - Default output directory: C:\Users\aless\Desktop\Cloud1
+20:48:42.070 [main] ERROR - Output directory /Users/drmark/github/NetGameSim/outputs does not exist or is not a directory, using current directory instead: C:\Users\aless\Desktop\Cloud1
+20:49:45.330 [main] INFO  - Loading the NetGraph from input/NetGameSimfileName.ngs
+20:49:46.340 [main] INFO  - Default output directory: C:\Users\aless\Desktop\Cloud1
+20:49:46.340 [main] ERROR - Output directory /Users/drmark/github/NetGameSim/outputs does not exist or is not a directory, using current directory instead: C:\Users\aless\Desktop\Cloud1
+20:50:54.848 [main] INFO  - Loading the NetGraph from input/NetGameSimfileName.ngs
+20:50:55.909 [main] INFO  - Default output directory: C:\Users\aless\Desktop\Cloud1
+20:50:55.909 [main] ERROR - Output directory /Users/drmark/github/NetGameSim/outputs does not exist or is not a directory, using current directory instead: C:\Users\aless\Desktop\Cloud1
+23:30:48.747 [main] INFO  - Loading the NetGraph from input/NetGame11SimfileName.ngs
+23:31:03.412 [main] INFO  - Loading the NetGraph from input/NetGameSimfileName.ngs
+23:31:04.536 [main] INFO  - Default output directory: C:\Users\aless\Desktop\Cloud1
+23:31:04.536 [main] ERROR - Output directory /Users/drmark/github/NetGameSim/outputs does not exist or is not a directory, using current directory instead: C:\Users\aless\Desktop\Cloud1
