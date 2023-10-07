@@ -8,7 +8,7 @@ object FileManager {
   var index = 0
   val path_to_directory = "mapper_input/"
 
-  def writeToFile(list:  collection.Set[((Int, Int, collection.Set[NodeObject]), (Int, Int, collection.Set[NodeObject]))]): Unit = {
+  def writeToFile(list:  collection.Set[((Int, Int, ListBuffer[NodeObject]), (Int, Int, ListBuffer[NodeObject]))]): Unit = {
     // Convert the ListBuffer to a string
     val directory = new File(path_to_directory)
     if (!directory.exists()) {

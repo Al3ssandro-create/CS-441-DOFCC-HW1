@@ -11,7 +11,9 @@ lazy val dependencies = Seq(
   "ch.qos.logback" % "logback-classic" % "1.4.7",
   "org.slf4j" % "slf4j-api" % "1.7.30",
   "org.slf4j" % "slf4j-log4j12" % "1.7.30",
-  "log4j" % "log4j" % "1.2.17"
+  "log4j" % "log4j" % "1.2.17",
+  "org.yaml" % "snakeyaml" % "1.29"
+
 )
 
 lazy val root = (project in file("."))
