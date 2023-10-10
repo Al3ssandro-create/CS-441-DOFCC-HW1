@@ -79,31 +79,10 @@ object Main {
             FileInputFormat.addInputPath(job, new Path(args(2)))
             FileOutputFormat.setOutputPath(job, new Path(args(1)))
             // Submit the job and run it
-
-            if(job.waitForCompletion(false)) {
-
-
-              val reducerOutputPath = s"${args(1)}part-r-00000"
-              val yamlFilePath = s"${args(0)}NetGameSimfileName.ngs.yaml"
-              val inputText = Source.fromFile(reducerOutputPath).mkString
-              val yamlText = Source.fromFile(yamlFilePath).mkString
-              Source.fromFile(reducerOutputPath).close()
-              Source.fromFile(yamlFilePath).close()
-              val result = Parser.parseYaml(inputText, yamlText)
-              val BTL = result._1 + result._2
-              val GTL = result._3 + result._4
-              val RTL = BTL + GTL
-              val ACC = result._4 / RTL
-              val BTLR = result._2 / RTL
-              val VPR = (GTL - BTL) / (2 * RTL) + 0.5
-              logger.info(s"Bad Traceability Links(BTL): $BTL")
-              logger.info(s"Good Traceability Links (GTL): $GTL")
-              //logger.info(s"$RTL")
-              logger.info(s"Accuracy: $ACC")
-              logger.info(s"BRTL: $BTLR")
-              logger.info(s"Algorithm’s precision ratio: $VPR")
+            if(job.waitForCompletion(false)){
+              logger.info("The job succeed, you can grab a beer now!")
             }else{
-              logger.error("Error with hadoop")
+              logger.error("The job failed, check the code!")
             }
           /*}
           case None => {

@@ -1,0 +1,10 @@
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\aless\Desktop\Cloud1\src\main\scala\MapReduce.scala:20:20 -[0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m20 |[0m        tuplePattern(first, second, nodes) <- tuplePattern.findAllMatchIn(line)[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m   |[0m        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m   |[0mpattern binding uses refutable extractor `tuplePattern`[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m   |[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m   |[0mIf this usage is intentional, this can be communicated by adding the `case` keyword before the full pattern,[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m   |[0mwhich will result in a filtering for expression (using `withFilter`).[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m   |[0mThis patch can be rewritten automatically under -rewrite -source 3.2-migration.[0m
+[0m[[0m[33mwarn[0m] [0m[0mthere was 1 deprecation warning; re-run with -deprecation for details[0m
+[0m[[0m[33mwarn[0m] [0m[0mtwo warnings found[0m
