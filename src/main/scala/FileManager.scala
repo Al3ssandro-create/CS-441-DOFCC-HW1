@@ -1,3 +1,4 @@
+package com.lsc
 import NetGraphAlgebraDefs.NodeObject
 
 import java.io.*
@@ -6,10 +7,10 @@ import scala.collection.mutable.ListBuffer
 
 object FileManager {
   var index = 0
-  val path_to_directory = "mapper_input/"
-
-  def writeToFile(list:  collection.Set[((Int, Int, ListBuffer[NodeObject]), (Int, Int, ListBuffer[NodeObject]))]): Unit = {
-    // Convert the ListBuffer to a string
+  /*
+  * This method will allow me to write shard to different files it receive as input a complex tuple that will then trasformed to string and passed to the mapper as file*/
+  def writeToFile(list:  collection.Set[((Int, Int, ListBuffer[NodeObject]), (Int, Int, ListBuffer[NodeObject]))], path_to_directory : String): Unit = {
+    // Convert the ListBuffer to a stringpath_to_directory
     val directory = new File(path_to_directory)
     if (!directory.exists()) {
       directory.mkdirs()
@@ -25,6 +26,9 @@ object FileManager {
     }
     print("\nData as been written to: "+filePath + " >>>\n")
   }
+  /*
+  * Increase the index of the object in order to write different files
+  */
   def increaseIndex(): Unit = {
     index = index+1
   }

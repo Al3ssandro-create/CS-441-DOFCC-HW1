@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="NetGameSim (8)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/NetGameSim.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

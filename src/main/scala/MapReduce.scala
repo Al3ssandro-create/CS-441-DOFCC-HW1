@@ -1,3 +1,4 @@
+package com.lsc
 import NetGraphAlgebraDefs.NodeObject
 import org.apache.hadoop.io.{DoubleWritable, IntWritable, LongWritable, Text}
 import org.apache.hadoop.mapreduce.{Mapper, Reducer}
@@ -6,6 +7,10 @@ import org.slf4j.LoggerFactory
 import scala.collection.mutable.ListBuffer
 import scala.jdk.CollectionConverters.*
 object MapReduce {
+  /*
+  * My implementation of the map method, this method first parse for each line of the file the content, and then compute and write the result as value in
+  * the <key,value> tuple that will be passed to the reducer the key is going to indicates the id of the nodes we have compared with the others
+  */
   class MyMapper extends Mapper[LongWritable, Text, IntWritable, DoubleWritable] {
     override def map(
                       key: LongWritable,
@@ -30,7 +35,10 @@ object MapReduce {
       context.write(new IntWritable(first._2), new DoubleWritable(Parser.result(first._3,second._3)))
     }
   }
-
+  /*
+  * This is my implementation of the reducer, the task is simple it just have to retrieve the maximum value between the <key,value> tuples
+  * that have the same key.
+  */
   class MyReducer extends Reducer[IntWritable, DoubleWritable, IntWritable, DoubleWritable] {
     override def reduce(
                          key: IntWritable,

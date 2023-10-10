@@ -1,3 +1,4 @@
+package com.lsc
 class MyResult(
               graph : Int,
               Id: Int,

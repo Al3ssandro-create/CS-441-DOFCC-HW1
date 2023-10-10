@@ -1,28 +1,25 @@
+package com.lsc
 import NetGraphAlgebraDefs.NodeObject
 import org.slf4j.LoggerFactory
 import org.yaml.snakeyaml.Yaml
 import scala.collection.JavaConverters._
 object Parser {
+  /*
+  * This method allow to parse the data contains in the shard into the right one recreating the Node initially sent*/
   def parse(base: String): NodeObject = {
     //println(base)
     val pattern = """\((.*?)\)""".r
     pattern.findFirstMatchIn(base).map(_.group(1)) match
       case Some(value) => {
         val param = value.split(",")
-        /*println("0 " + param(0))
-        println("1 " + param(1))
-        println("2 " + param(2))
-        println("3 " + param(3))
-        println("4 " + param(4))
-        println("5 " + param(5))
-        println("6 " + param(6))
-        println("7 " + param(7))
-        println("8 " + param(8))*/
         NodeObject(param(0).toInt, param(1).toInt, param(2).toInt, param(3).toInt, param(4).toInt, param(5).toInt, param(6).toInt, param(7).toInt, param(8).toDouble)
       }
       case None => new NodeObject(0, 0, 0, 0, 0, 0, 0, 0, 0.0)
 
   }
+  /*
+  * Compute the result of the similarity between two nodes
+  */
   def result(first : List[NodeObject], second : List[NodeObject]): Double = {
     if(first(0) == second(0)){
       1.0
@@ -58,6 +55,9 @@ object Parser {
     }
     tot / 6.0
   }
+  /*
+  * Parse the given YAML
+  */
   def parseYaml(reducerText : String, yamlText : String): (Double,Double,Double,Double) = {
     val logger = LoggerFactory.getLogger(getClass)
 
