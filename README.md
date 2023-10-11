@@ -55,6 +55,6 @@ This is a Scala-based Hadoop MapReduce program designed for processing graph dat
 5. Run the main method in Comparison class.   
 _Note: The JAR for this program is already included in the repository._
 ## Additional Information
-
+- The files contained in the mapper_input folder must be named as in the repository
 - The program includes commented sections that indicate prior workflows and logic. These sections can be uncommented based on requirements.
 - Logging is facilitated through `slf4j`, ensuring detailed logs regarding the status of graph loading, shard creation, and MapReduce job execution.
