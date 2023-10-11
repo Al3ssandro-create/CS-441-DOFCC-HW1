@@ -76,7 +76,7 @@ object Main {
             if (fs.exists(output)) {
               fs.delete(output, true)
             } */
-            FileInputFormat.addInputPath(job, new Path(args(2)))
+            FileInputFormat.addInputPath(job, new Path(args(0)))
             FileOutputFormat.setOutputPath(job, new Path(args(1)))
             // Submit the job and run it
             if(job.waitForCompletion(false)){

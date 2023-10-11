@@ -1,5 +1,5 @@
-[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\aless\Desktop\Cloud1\src\main\scala\MapReduce.scala:20:20 -[0m[0m[0m
-[0m[[0m[33mwarn[0m] [0m[0m[33m20 |[0m        tuplePattern(first, second, nodes) <- tuplePattern.findAllMatchIn(line)[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\aless\Desktop\Cloud1\src\main\scala\MapReduce.scala:24:20 -[0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m24 |[0m        tuplePattern(first, second, nodes) <- tuplePattern.findAllMatchIn(line)[0m
 [0m[[0m[33mwarn[0m] [0m[0m[33m[33m   |[0m        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m[0m
 [0m[[0m[33mwarn[0m] [0m[0m[33m   |[0mpattern binding uses refutable extractor `tuplePattern`[0m
 [0m[[0m[33mwarn[0m] [0m[0m[33m   |[0m[0m
