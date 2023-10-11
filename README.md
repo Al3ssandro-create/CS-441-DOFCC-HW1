@@ -1,7 +1,7 @@
 # Scala Hadoop MapReduce Program
-Alessandro Martinolli
-mail:[amart409@uic.edu](amart409@uic.edu)
-youtube video:[]()
+Alessandro Martinolli    
+mail:[amart409@uic.edu](amart409@uic.edu)   
+youtube video:[https://youtu.be/xvdkpopnPFg](https://youtu.be/xvdkpopnPFg)   
 ## Overview
 
 This is a Scala-based Hadoop MapReduce program designed for processing graph data. The program aims to analyze nodes from two graphs, generating results based on a specific comparison logic. It's structured in the `com.lsc` package and uses MapReduce for distributed processing.
