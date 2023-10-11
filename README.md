@@ -45,8 +45,14 @@ This is a Scala-based Hadoop MapReduce program designed for processing graph dat
 2. Clone the repository
 3. Compile and run the program using SBT: 
    ```bash
-   sbt clean compile run
-4. Run the main method in Comparison class.   
+   sbt clean compile
+   sbt "run <input dir> <output dir>"
+
+4. Compile and test the program using SBT:
+    ```bash
+   sbt clean test
+    
+5. Run the main method in Comparison class.   
 _Note: The JAR for this program is already included in the repository._
 ## Additional Information
 
