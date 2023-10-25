@@ -1,0 +1,9 @@
+Student - Alessandro Martinolli
+
+=> 4/5 scalatests = -0.2%
+
+
+Good display of the core understanding of map/reduce. Great comments in the code too. I would have liked to see the input paths for the files in Comparisions.scala as configurable in application.conf instead of hardcoded.
+Overall, Great job, keep it up!
+
+Grade = 14.8% 
